@@ -1,1 +1,1 @@
-This is basic riddle game 
+This is Basic Riddle Game
