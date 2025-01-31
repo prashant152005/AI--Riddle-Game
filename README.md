@@ -1,1 +1,2 @@
-This is Basic Riddle Game made using Java..
+This is Basic Riddle Game made using Java.
+
