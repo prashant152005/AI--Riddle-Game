@@ -4,7 +4,7 @@ public class RiddleGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int score = 0;
-  
+   
         // Define an array of riddles and their corresponding answers.
         String[] riddles = {
             "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
